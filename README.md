@@ -1,2 +1,3 @@
 # linguagemC
-Exercícios básicos de fixação em linguagem C.
+
+:computer: Exercícios básicos de fixação em linguagem C.
